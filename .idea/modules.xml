@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/InterfaceSegrationPrinciple.iml" filepath="$PROJECT_DIR$/InterfaceSegrationPrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceSegregationPrinciple.iml" filepath="$PROJECT_DIR$/InterfaceSegregationPrinciple.iml" />
     </modules>
   </component>
 </project>
