@@ -1,6 +1,5 @@
 public abstract class JohnDoe implements  SwimmingAthlete{
 
-
     @Override
     public void compete() {
         System.out.println("JohnDoe started competing");
